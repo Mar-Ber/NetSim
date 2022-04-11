@@ -6,4 +6,4 @@ The network consists of three types of nodes that are the components of the fact
 
 * Workers,
 * Ramps,
-* Magazines.
+* Storages.
