@@ -1,0 +1,4 @@
+"D:\Studia\Clion\CLion 2018.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Studia\Informatyka\INF_2\NetSim
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Studia/Informatyka/INF_2/NetSim/cmake-build-debug
